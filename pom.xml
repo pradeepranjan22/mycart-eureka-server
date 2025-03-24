@@ -9,10 +9,10 @@
 		<relativePath/> <!-- lookup parent from repository -->
 	</parent>
 	<groupId>com.shopease</groupId>
-	<artifactId>shopease-eureka-server</artifactId>
+	<artifactId>mycart-eureka-server</artifactId>
 	<version>0.0.1-SNAPSHOT</version>
-	<name>shopease-eureka-server</name>
-	<description>shopease-eureka-server</description>
+	<name>mycart-eureka-server</name>
+	<description>mycart-eureka-server</description>
 	<url/>
 	<licenses>
 		<license/>

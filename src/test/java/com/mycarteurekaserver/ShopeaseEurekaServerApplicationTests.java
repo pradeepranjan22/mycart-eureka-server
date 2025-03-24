@@ -1,4 +1,4 @@
-package com.shopease.shopeaseeurekaserver;
+package com.mycarteurekaserver;
 
 import org.junit.jupiter.api.Test;
 import org.springframework.boot.test.context.SpringBootTest;
